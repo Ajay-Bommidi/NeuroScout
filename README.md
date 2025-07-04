@@ -40,19 +40,19 @@ NeuroScout is a modern, full-stack AI chatbot platform designed for SaaS-level p
 
 ## 🔑 How to Use Neuroscout & API Keys
 To access real-time AI responses, you’ll need to provide API keys for supported AI providers (e.g., OpenAI, Perplexity, or others). Here’s how:
-Go to Settings:
-Click the settings or API key icon in the sidebar.
-Get Your API Key:
-Choose your preferred provider (e.g., OpenAI, Perplexity, Travily, etc.).
-Click the “Get Key” link.
-Sign up or log in on the provider’s website.
-Follow their instructions to generate an API key.
-Add the API Key to NeuroScout:
-Copy your API key from the provider’s dashboard.
-Paste it into the API key input field in NeuroScout.
-Click “Submit” to save.
-Start Chatting:
-Once your key is saved, you can chat with the bot and get real-time, AI-powered answers.
+-- Go to Settings:
+-- Click the settings or API key icon in the sidebar.
+-- Get Your API Key:
+-- Choose your preferred provider (e.g., OpenAI, Perplexity, Travily, etc.).
+-- Click the “Get Key” link.
+-- Sign up or log in on the provider’s website.
+-- Follow their instructions to generate an API key.
+-- Add the API Key to NeuroScout:
+-- Copy your API key from the provider’s dashboard.
+-- Paste it into the API key input field in NeuroScout.
+-- Click “Submit” to save.
+-- Start Chatting:
+-- Once your key is saved, you can chat with the bot and get real-time, AI-powered answers.
 > Tip: Your API keys are stored securely in your browser (localStorage) and are never sent to any third-party server by NeuroScout.
 
 ## Live Checkout :
