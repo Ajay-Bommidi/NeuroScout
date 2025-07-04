@@ -106,4 +106,5 @@ npm run preview
 ---
 
 ## 📄 License
-MIT
+MIT 
+Linkedin : https://www.linkedin.com/in/ajay-bommidi-88b74b279
